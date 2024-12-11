@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
-using WebShopApp.Data;
+using WebShopApp.Infrastructure.Data;
 
 namespace WebShopApp
 {
