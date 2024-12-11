@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{764BEBF4-39B0-4EEB-B1EE-3C3D5A27A66E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\webshopapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764BEBF4-39B0-4EEB-B1EE-3C3D5A27A66E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2406898F-3B8B-4679-BCA3-7156FD62E888}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\webshopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2406898F-3B8B-4679-BCA3-7156FD62E888}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764BEBF4-39B0-4EEB-B1EE-3C3D5A27A66E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|c:\\users\\student\\desktop\\new folder (2)\\webshopapp\\webshopapp\\webshopapp.infrastructure\\webshopapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{764BEBF4-39B0-4EEB-B1EE-3C3D5A27A66E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\webshopapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2406898F-3B8B-4679-BCA3-7156FD62E888}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\webshopapp\\webshopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2406898F-3B8B-4679-BCA3-7156FD62E888}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\webshopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2406898F-3B8B-4679-BCA3-7156FD62E888}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\webshopapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2406898F-3B8B-4679-BCA3-7156FD62E888}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764BEBF4-39B0-4EEB-B1EE-3C3D5A27A66E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\webshopapp.infrastructure\\data\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764BEBF4-39B0-4EEB-B1EE-3C3D5A27A66E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764BEBF4-39B0-4EEB-B1EE-3C3D5A27A66E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\webshopapp.infrastructure\\data\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764BEBF4-39B0-4EEB-B1EE-3C3D5A27A66E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764BEBF4-39B0-4EEB-B1EE-3C3D5A27A66E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\webshopapp.infrastructure\\data\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764BEBF4-39B0-4EEB-B1EE-3C3D5A27A66E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764BEBF4-39B0-4EEB-B1EE-3C3D5A27A66E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\webshopapp.infrastructure\\data\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764BEBF4-39B0-4EEB-B1EE-3C3D5A27A66E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764BEBF4-39B0-4EEB-B1EE-3C3D5A27A66E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\webshopapp.infrastructure\\data\\domain\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764BEBF4-39B0-4EEB-B1EE-3C3D5A27A66E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\domain\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Domain\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\ApplicationUser.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Domain\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:14:15.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebShopApp.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T07:11:05.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebShopApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
+              "RelativeDocumentMoniker": "WebShopApp\\WebShopApp.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
+              "RelativeToolTip": "WebShopApp\\WebShopApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T07:10:54.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Product.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Domain\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:10:50.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Order.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Domain\\Order.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:10:48.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Domain\\Category.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Category.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Domain\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:10:48.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Brand.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Domain\\Brand.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Brand.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Domain\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:10:44.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:10:20.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebShopApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp\\appsettings.json",
+              "RelativeToolTip": "WebShopApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T07:07:30.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder (2)\\WebShopApp\\WebShopApp\\WebShopApp\\Program.cs",
+              "RelativeToolTip": "WebShopApp\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:07:14.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
