@@ -26,3 +26,18 @@ C:\Users\User\Desktop\Нова папка\WebShopApp\WebShopApp.Infrastructure\o
 C:\Users\User\Desktop\Нова папка\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.pdb
 C:\Users\User\Desktop\Нова папка\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.genruntimeconfig.cache
 C:\Users\User\Desktop\Нова папка\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\ref\WebShopApp.Infrastructure.dll
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net6.0\WebShopApp.Infrastructure.deps.json
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net6.0\WebShopApp.Infrastructure.runtimeconfig.json
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net6.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net6.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.sourcelink.json
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\refint\WebShopApp.Infrastructure.dll
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\ref\WebShopApp.Infrastructure.dll
