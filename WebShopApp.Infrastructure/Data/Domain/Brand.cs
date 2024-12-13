@@ -13,7 +13,7 @@ namespace WebShopApp.Infrastructure.Data.Domain
 
         [Required]
         [MaxLength(30)]
-        public string BrandName { get; set; }
+        public string BrandName { get; set; } = null!;
 
         public virtual IEnumerable<Product> Products { get; set; } = new List<Product>();
     }
