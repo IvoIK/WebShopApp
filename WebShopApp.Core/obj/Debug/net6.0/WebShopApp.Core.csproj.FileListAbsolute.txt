@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\bin\Debug\net6.0\WebShopApp.Core.deps.json
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\bin\Debug\net6.0\WebShopApp.Core.dll
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\bin\Debug\net6.0\WebShopApp.Core.pdb
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\bin\Debug\net6.0\WebShopApp.Infrastructure.dll
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\bin\Debug\net6.0\WebShopApp.Infrastructure.pdb
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.csproj.CopyComplete
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.dll
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\obj\Debug\net6.0\refint\WebShopApp.Core.dll
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.pdb
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\obj\Debug\net6.0\ref\WebShopApp.Core.dll
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\bin\Debug\net6.0\WebShopApp.Core.runtimeconfig.json
+C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.genruntimeconfig.cache
