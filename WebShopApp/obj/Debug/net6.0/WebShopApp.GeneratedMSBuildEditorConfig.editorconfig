@@ -9,61 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebShopApp
 build_property.RootNamespace = WebShopApp
-build_property.ProjectDir = C:\Users\User\Desktop\WebShopApp\WebShopApp\
+build_property.ProjectDir = C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\WebShopApp\WebShopApp
+build_property.MSBuildProjectDirectory = C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/User/Desktop/WebShopApp/WebShopApp/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/Student/Documents/IP_ IvayloKirilov12b/Diplomen proekt - podgotovka/WebShopApp/WebShopApp/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebShopApp/WebShopApp/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/Users/Student/Documents/IP_ IvayloKirilov12b/Diplomen proekt - podgotovka/WebShopApp/WebShopApp/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebShopApp/WebShopApp/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/Student/Documents/IP_ IvayloKirilov12b/Diplomen proekt - podgotovka/WebShopApp/WebShopApp/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebShopApp/WebShopApp/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/Student/Documents/IP_ IvayloKirilov12b/Diplomen proekt - podgotovka/WebShopApp/WebShopApp/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebShopApp/WebShopApp/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Student/Documents/IP_ IvayloKirilov12b/Diplomen proekt - podgotovka/WebShopApp/WebShopApp/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebShopApp/WebShopApp/Views/Home/Index.cshtml]
+[C:/Users/Student/Documents/IP_ IvayloKirilov12b/Diplomen proekt - podgotovka/WebShopApp/WebShopApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebShopApp/WebShopApp/Views/Home/Privacy.cshtml]
+[C:/Users/Student/Documents/IP_ IvayloKirilov12b/Diplomen proekt - podgotovka/WebShopApp/WebShopApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebShopApp/WebShopApp/Views/Shared/Error.cshtml]
+[C:/Users/Student/Documents/IP_ IvayloKirilov12b/Diplomen proekt - podgotovka/WebShopApp/WebShopApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebShopApp/WebShopApp/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Student/Documents/IP_ IvayloKirilov12b/Diplomen proekt - podgotovka/WebShopApp/WebShopApp/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebShopApp/WebShopApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Student/Documents/IP_ IvayloKirilov12b/Diplomen proekt - podgotovka/WebShopApp/WebShopApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebShopApp/WebShopApp/Views/_ViewImports.cshtml]
+[C:/Users/Student/Documents/IP_ IvayloKirilov12b/Diplomen proekt - podgotovka/WebShopApp/WebShopApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebShopApp/WebShopApp/Views/_ViewStart.cshtml]
+[C:/Users/Student/Documents/IP_ IvayloKirilov12b/Diplomen proekt - podgotovka/WebShopApp/WebShopApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/WebShopApp/WebShopApp/Views/Shared/_Layout.cshtml]
+[C:/Users/Student/Documents/IP_ IvayloKirilov12b/Diplomen proekt - podgotovka/WebShopApp/WebShopApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bfsj69jqfz
