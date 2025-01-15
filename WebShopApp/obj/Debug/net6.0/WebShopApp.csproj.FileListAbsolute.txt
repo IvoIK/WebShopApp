@@ -1318,3 +1318,7 @@ C:\Users\User\Desktop\Проекти и материали\Програмира�
 C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp\obj\Debug\net6.0\ref\WebShopApp.dll
 C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp\bin\Debug\net6.0\Castle.Core.dll
 C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\bin\Debug\net6.0\WebShopApp.Core.dll
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\bin\Debug\net6.0\WebShopApp.Core.pdb
