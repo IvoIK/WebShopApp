@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t9qGNAyjRfvXfxIqg7n8HmglZWdQoEjG4l8/YXjTeP5SVN3ls1eLCjHtvnQ4b7YXPjj3F+GAa6RdUodbAJ0HYg==",
+  "dgSpecHash": "32Jb3PNhf9GJXWf+TEAR49BrgUsfeMP08hyCVMU5X24RaO+tMjUKse+VHG1LbwAGqIV3sU+7q3+eqzn3hiGwlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\Documents\\IP_ IvayloKirilov12b\\Diplomen proekt - podgotovka\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

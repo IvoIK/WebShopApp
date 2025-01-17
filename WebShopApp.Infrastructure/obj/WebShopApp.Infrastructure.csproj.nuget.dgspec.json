@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\Documents\\IP_ IvayloKirilov12b\\Diplomen proekt - podgotovka\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj": {}
+    "C:\\Users\\Student\\Desktop\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\Documents\\IP_ IvayloKirilov12b\\Diplomen proekt - podgotovka\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj": {
+    "C:\\Users\\Student\\Desktop\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Documents\\IP_ IvayloKirilov12b\\Diplomen proekt - podgotovka\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Desktop\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
         "projectName": "WebShopApp.Infrastructure",
-        "projectPath": "C:\\Users\\Student\\Documents\\IP_ IvayloKirilov12b\\Diplomen proekt - podgotovka\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Student\\Desktop\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Documents\\IP_ IvayloKirilov12b\\Diplomen proekt - podgotovka\\WebShopApp\\WebShopApp.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Student\\Desktop\\WebShopApp\\WebShopApp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

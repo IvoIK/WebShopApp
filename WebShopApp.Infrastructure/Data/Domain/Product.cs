@@ -30,6 +30,7 @@ namespace WebShopApp.Infrastructure.Data.Domain
 
         public decimal Price { get; set; }
 
+        [Range(0, 100)]
         public decimal Discount { get; set; }
 
         public virtual IEnumerable<Order> Orders { get; set; } = new List<Order>();

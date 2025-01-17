@@ -33,3 +33,21 @@ C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\Web
 C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.pdb
 C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.genruntimeconfig.cache
 C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp.Core\obj\Debug\net6.0\ref\WebShopApp.Core.dll
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\bin\Debug\net6.0\WebShopApp.Core.deps.json
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\bin\Debug\net6.0\WebShopApp.Core.runtimeconfig.json
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\bin\Debug\net6.0\WebShopApp.Core.dll
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\bin\Debug\net6.0\WebShopApp.Core.pdb
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\bin\Debug\net6.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\bin\Debug\net6.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.AssemblyInfo.cs
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.sourcelink.json
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopA.BE528FB2.Up2Date
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.dll
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\obj\Debug\net6.0\refint\WebShopApp.Core.dll
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.pdb
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\obj\Debug\net6.0\WebShopApp.Core.genruntimeconfig.cache
+C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\obj\Debug\net6.0\ref\WebShopApp.Core.dll
