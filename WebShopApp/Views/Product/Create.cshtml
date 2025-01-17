@@ -1,7 +1,9 @@
 ﻿@model WebShopApp.Models.Product.ProductCreateVM
+
 @{
-ViewData["Title"] = "Create";
+    ViewData["Title"] = "Create";
 }
+
 <h1>Create</h1>
 <h4>ProductCreateVM</h4>
 <hr />
@@ -62,9 +64,11 @@ ViewData["Title"] = "Create";
         </form>
     </div>
 </div>
+
 <div>
     <a asp-action="Index">Back to List</a>
 </div>
+
 @section Scripts {
     @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
