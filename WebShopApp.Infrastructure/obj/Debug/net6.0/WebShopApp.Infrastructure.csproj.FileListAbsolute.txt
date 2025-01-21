@@ -84,3 +84,18 @@ C:\Users\User\Desktop\Проекти и материали\Програмира�
 C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.pdb
 C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.genruntimeconfig.cache
 C:\Users\User\Desktop\Проекти и материали\Програмиране\ИП 12 клас\Podgotovka za diplomen proekt\WebShopApp\3.WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\ref\WebShopApp.Infrastructure.dll
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net6.0\WebShopApp.Infrastructure.deps.json
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net6.0\WebShopApp.Infrastructure.runtimeconfig.json
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net6.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net6.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.sourcelink.json
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\refint\WebShopApp.Infrastructure.dll
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Student\Documents\IP_ IvayloKirilov12b\Diplomen proekt - podgotovka\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\ref\WebShopApp.Infrastructure.dll
