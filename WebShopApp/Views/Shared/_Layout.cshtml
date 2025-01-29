@@ -19,21 +19,52 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
+
+                        &nbsp;
+
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
+
+                        &nbsp;
+
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
+
+                        &nbsp;
+
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="Index">Products</a>
                         </li>
+
+                        &nbsp;
+
                         @if (this.User.Identity.IsAuthenticated)
                         {
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area="" asp-controller="Order" asp-action="MyOrders">My Orders</a>
                             </li>
                         }
+
+
+                        &nbsp;
+
+
+                        <li class="dropdown">
+                            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                Products
+                            </button>
+
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                                <li><a class="dropdown-item" asp-controller="Product" asp-action="Index" asp-route-searchStringBrandName="Dell">DELL</a></li>
+                                <li><a class="dropdown-item" asp-controller="Product" asp-action="Index" asp-route-searchStringBrandName="Acer">ACER</a></li>
+                                <li><a class="dropdown-item" asp-controller="Product" asp-action="Index" asp-route-searchStringBrandName="HP">HP</a></li>
+                            </ul>
+
+                        </li>
+
+                        &nbsp;
 
                         @if ((this.User.Identity.IsAuthenticated) && this.User.IsInRole("Administrator"))
                         {
@@ -49,6 +80,9 @@
                                 </ul>
                             </li>
                         }
+
+                        &nbsp;
+
                     </ul>
                     <partial name="_LoginPartial" />
                 </div>
