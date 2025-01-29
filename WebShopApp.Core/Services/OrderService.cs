@@ -52,7 +52,7 @@ namespace WebShopApp.Core.Services
 
         public Order GetOrderById(int orderId)
         {
-            throw new NotImplementedException();
+            return _context.Orders.Find(orderId);
         }
 
         public List<Order> GetOrders()
@@ -67,12 +67,66 @@ namespace WebShopApp.Core.Services
 
         public bool RemoveById(int orderId)
         {
-            throw new NotImplementedException();
+            var order = GetOrderById(orderId);
+
+            if (order == null)
+            { 
+                return false; 
+            }
+
+            var product = this._context.Products.SingleOrDefault(x => x.Id == order.ProductId);
+
+            if (product != null)
+            {
+                product.Quantity += order.Quantity;
+                _context.Products.Update(product);
+            }
+
+            _context.Orders.Remove(order);
+            return _context.SaveChanges() != 0;
         }
 
         public bool Update(int orderId, int productId, string userId, int quantity)
         {
-            throw new NotImplementedException();
+            var order = GetOrderById(orderId);
+
+            if (order == null)
+            {
+                return false;
+            }
+
+            var updatedProduct = this._context.Products.SingleOrDefault(x => x.Id == productId);
+
+            if (updatedProduct == null)
+            {
+                return false;
+            }
+
+            var oldProduct = this._context.Products.SingleOrDefault(x => x.Id == order.ProductId);
+
+            if (oldProduct != null && oldProduct.Id != updatedProduct.Id)
+            {
+                oldProduct.Quantity += order.Quantity;
+                _context.Products.Update(oldProduct);
+            }
+
+            if (updatedProduct.Quantity + order.Quantity < quantity)
+            {
+                return false; 
+            }
+
+            updatedProduct.Quantity = updatedProduct.Quantity + order.Quantity - quantity;
+
+            order.OrderDate = DateTime.Now;
+            order.ProductId = productId;
+            order.UserId = userId;
+            order.Quantity = quantity;
+            order.Price = updatedProduct.Price;
+            order.Discount = updatedProduct.Discount;
+
+            _context.Products.Update(updatedProduct);
+            _context.Orders.Update(order);
+            return _context.SaveChanges() != 0;
         }
     }
 }

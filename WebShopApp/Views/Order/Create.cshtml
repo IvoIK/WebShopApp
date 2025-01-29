@@ -3,8 +3,15 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Order</h1>
+<h1>OrderCreateVM</h1>
 <hr />
+
+
+@if (Model.QuantityInStock == 0)
+{
+    <div class="alert alert-danger"> Out of stock product! </div>
+}
+
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Create">
@@ -43,7 +50,7 @@
             <br />
             <div class="form-group">
                 <input type="submit" value="Order" class="btn btn-primary" />
-                <a asp-action="Index" asp-controller="Product" class="btn btn-warning">Back to Products</a>
+                <a asp-action="Index" asp-controller="Product" class="btn btn-dark">Back to List</a>
             </div>
         </form>
     </div>

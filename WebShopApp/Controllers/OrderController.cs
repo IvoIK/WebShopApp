@@ -38,7 +38,7 @@ namespace WebShopApp.Controllers
                 QuantityInStock = product.Quantity,
                 Price = product.Price,
                 Discount = product.Discount,
-                Picture = product.Picture,
+                Picture = product.Picture
             };
 
             return View(order);
@@ -91,6 +91,97 @@ namespace WebShopApp.Controllers
             return View(orders);
         }
 
+        // GET: OrderController/Edit/5
+        public ActionResult Edit(int id)
+        {
+            var order = _orderService.GetOrderById(id);
+
+            if (order == null)
+            {
+                return NotFound();
+            }
+
+            OrderEditVM updatedOrder = new OrderEditVM
+            {
+                Id = order.Id,
+                ProductId = order.ProductId,
+                ProductName = order.Product.ProductName,
+                QuantityInStock = order.Product.Quantity,
+                Quantity = order.Quantity,
+                Price = order.Price,
+                Discount = order.Discount,
+                Picture = order.Product.Picture,
+                TotalPrice = order.TotalPrice,
+            };
+
+            return View(updatedOrder);
+        }
+
+        // POST: OrderController/Edit/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Edit(int id, OrderEditVM order)
+        {
+            if (ModelState.IsValid)
+            {
+                string currentUserId = this.User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+                var updated = _orderService.Update(id, order.ProductId, currentUserId, order.Quantity);
+
+                if (updated)
+                {
+                    return this.RedirectToAction("MyOrders");
+                }
+            }
+
+            return View(order);
+        }
+
+
+        // GET: OrderController/Delete/5
+        public ActionResult Delete(int id)
+        {
+            var order = _orderService.GetOrderById(id);
+
+            if (order == null)
+            {
+                return NotFound();
+            }
+
+            OrderDeleteVM deletedOrder = new OrderDeleteVM
+            {
+                Id = order.Id,
+                OrderDate = order.OrderDate,
+                ProductId = order.ProductId,
+                ProductName = order.Product.ProductName,
+                Quantity = order.Quantity,
+                Price = order.Price,
+                Discount = order.Discount,
+                Picture = order.Product.Picture,
+                TotalPrice = order.TotalPrice,
+            };
+
+            return View(deletedOrder);
+        }
+
+        // POST: OrderController/Delete/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Delete(int id, IFormCollection collection)
+        {
+            var deleted = _orderService.RemoveById(id);
+
+            if (deleted)
+            {
+                return this.RedirectToAction("Success");
+            }
+            else
+            {
+                return View();
+            }
+        }
+
+        // GET: OrderController/MyOrders
         public ActionResult MyOrders()
         {
             string currentUserId = this.User.FindFirstValue(ClaimTypes.NameIdentifier);
@@ -116,6 +207,11 @@ namespace WebShopApp.Controllers
 
         // GET: OrderController/Denied
         public ActionResult Denied()
+        {
+            return View();
+        }
+
+        public IActionResult Success()
         {
             return View();
         }
