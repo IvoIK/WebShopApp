@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebShopApp.Core
-build_property.ProjectDir = C:\Users\User\Desktop\Проекти и материали\Програмиране\Podgotovka za diplomen proekt\WebShopApp\6.WebShopApp\WebShopApp.Core\
+build_property.ProjectDir = C:\Users\Student\Desktop\WebShopApp\WebShopApp.Core\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
