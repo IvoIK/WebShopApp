@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uT8+eUg4ACmsRGrKxLvhdeWVs9+yVwy69uYrVESG1bn3LZOZGxzCGSe3GRg3Csey9jWmi/UwnyowOvaexHv+hw==",
+  "dgSpecHash": "OiD1Fgb5xKqHHgea58sN6yw7B0Qqa9e9CUguKP9kpSNol8cSYQBeQA0PagpwmNaoBtbpeZ2VxOvlQkShktIH5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Downloads\\WebShopApp\\WebShopApp\\WebShopApp.Core\\WebShopApp.Core.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Проекти и материали\\Програмиране\\Podgotovka za diplomen proekt\\WebShopApp\\6.WebShopApp\\WebShopApp.Core\\WebShopApp.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

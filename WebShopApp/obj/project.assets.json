@@ -11811,11 +11811,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\WebShopApp\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Проекти и материали\\Програмиране\\Podgotovka za diplomen proekt\\WebShopApp\\6.WebShopApp\\WebShopApp\\WebShopApp.csproj",
       "projectName": "WebShopApp",
-      "projectPath": "C:\\Users\\User\\Downloads\\WebShopApp\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Проекти и материали\\Програмиране\\Podgotovka za diplomen proekt\\WebShopApp\\6.WebShopApp\\WebShopApp\\WebShopApp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\WebShopApp\\WebShopApp\\WebShopApp\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Проекти и материали\\Програмиране\\Podgotovka za diplomen proekt\\WebShopApp\\6.WebShopApp\\WebShopApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11837,11 +11837,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\User\\Downloads\\WebShopApp\\WebShopApp\\WebShopApp.Core\\WebShopApp.Core.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\WebShopApp\\WebShopApp\\WebShopApp.Core\\WebShopApp.Core.csproj"
+            "C:\\Users\\User\\Desktop\\Проекти и материали\\Програмиране\\Podgotovka za diplomen proekt\\WebShopApp\\6.WebShopApp\\WebShopApp.Core\\WebShopApp.Core.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Проекти и материали\\Програмиране\\Podgotovka za diplomen proekt\\WebShopApp\\6.WebShopApp\\WebShopApp.Core\\WebShopApp.Core.csproj"
             },
-            "C:\\Users\\User\\Downloads\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj"
+            "C:\\Users\\User\\Desktop\\Проекти и материали\\Програмиране\\Podgotovka za diplomen proekt\\WebShopApp\\6.WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Проекти и материали\\Програмиране\\Podgotovka za diplomen proekt\\WebShopApp\\6.WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj"
             }
           }
         }
