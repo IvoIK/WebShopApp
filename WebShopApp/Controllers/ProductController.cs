@@ -77,6 +77,66 @@ namespace WebShopApp.Controllers
             return this.View(products);
         }
 
+        // GET: ProductController/Dell
+        [AllowAnonymous]
+        public ActionResult Dell(string searchStringCategoryName, string searchStringBrandName)
+        {
+            List<ProductIndexVM> products = _productService.GetProducts(searchStringCategoryName, searchStringBrandName).Select(product => new ProductIndexVM
+            {
+                Id = product.Id,
+                ProductName = product.ProductName,
+                BrandId = product.BrandId,
+                BrandName = product.Brand.BrandName,
+                CategoryId = product.CategoryId,
+                CategoryName = product.Category.CategoryName,
+                Picture = product.Picture,
+                Quantity = product.Quantity,
+                Price = product.Price,
+                Discount = product.Discount
+            }).Where(x => x.BrandName.ToLower() == "dell").ToList();
+            return this.View(products);
+        }
+
+        // GET: ProductController/Asus
+        [AllowAnonymous]
+        public ActionResult Asus(string searchStringCategoryName, string searchStringBrandName)
+        {
+            List<ProductIndexVM> products = _productService.GetProducts(searchStringCategoryName, searchStringBrandName).Select(product => new ProductIndexVM
+            {
+                Id = product.Id,
+                ProductName = product.ProductName,
+                BrandId = product.BrandId,
+                BrandName = product.Brand.BrandName,
+                CategoryId = product.CategoryId,
+                CategoryName = product.Category.CategoryName,
+                Picture = product.Picture,
+                Quantity = product.Quantity,
+                Price = product.Price,
+                Discount = product.Discount
+            }).Where(x => x.BrandName.ToLower() == "asus").ToList();
+            return this.View(products);
+        }
+
+        // GET: ProductController/Acer
+        [AllowAnonymous]
+        public ActionResult Acer(string searchStringCategoryName, string searchStringBrandName)
+        {
+            List<ProductIndexVM> products = _productService.GetProducts(searchStringCategoryName, searchStringBrandName).Select(product => new ProductIndexVM
+            {
+                Id = product.Id,
+                ProductName = product.ProductName,
+                BrandId = product.BrandId,
+                BrandName = product.Brand.BrandName,
+                CategoryId = product.CategoryId,
+                CategoryName = product.Category.CategoryName,
+                Picture = product.Picture,
+                Quantity = product.Quantity,
+                Price = product.Price,
+                Discount = product.Discount
+            }).Where(x => x.BrandName.ToLower() == "acer").ToList();
+            return this.View(products);
+        }
+
         // GET: ProductController/Edit/5
         public ActionResult Edit(int id)
         {
